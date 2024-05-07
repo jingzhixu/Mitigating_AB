@@ -1,2 +1,3 @@
 # Mitigating_AB
-Slides and materials for MACS 30200 final project
+## Abstract
+As the process of human decision making is relatively less efficient with ambiguity subjective factors involved, predictive algorithms considering  individuals characteristics are used widely in firms' hiring decisions, bail decisions on court, school enrolment etc. Due to the quality concerns about historical data and lack of fair ways to measure fairness, even when omitting the direct use of sensitive  demographic variables, still we can see relative disadvantage for minority groups. This project first makes a brief overview of studies about fairness problem in using predictive algorithms involving its sources, measurements and ways to mitigate bias. Then we focus on the training part and examine the performance of different algorithms.
